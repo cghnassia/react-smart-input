@@ -22,7 +22,7 @@ class InputSearchComponent extends React.Component {
 
 	render() {
 		return(
-			<div>
+			<div className='input-search'>
 				<input type="text" placeholder="search" onChange={this.onInputChange.bind(this)}/>
 				<button onClick={this.onButtonClick.bind(this)}>Search!</button>
 			</div>

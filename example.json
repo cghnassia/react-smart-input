@@ -1,0 +1,2520 @@
+{
+  "statuses": [
+    {
+      "created_at": "Thu Aug 25 11:37:48 +0000 2016",
+      "id": 768774374560325632,
+      "id_str": "768774374560325632",
+      "text": "RT @Hevallo: American YPG fighter: US backing Turkey-led Jarabulus operation is a slap in the face for Kurds  https://t.co/2LFtGPpBh2 via @…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Hevallo",
+            "name": "Kurdish Question",
+            "id": 49946953,
+            "id_str": "49946953",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "twitterapi",
+            "name": "Twitter API",
+            "id": 6253282,
+            "id_str": "6253282",
+            "indices": [
+              139,
+              140
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/2LFtGPpBh2",
+            "expanded_url": "http://aranews.net/2016/08/american-ypg-fighter-us-backing-turkey-led-jarabulus-operation-slap-face-kurds/",
+            "display_url": "aranews.net/2016/08/americ…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4872550547,
+        "id_str": "4872550547",
+        "name": "rammbamm",
+        "screen_name": "gire_min",
+        "location": "myanus",
+        "description": "shit on political correctness \nkurds and islam don't match. \ncome back to your roots",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 338,
+        "friends_count": 268,
+        "listed_count": 23,
+        "created_at": "Tue Feb 02 20:40:34 +0000 2016",
+        "favourites_count": 8066,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 15308,
+        "lang": "de",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/694664142553272320/oaa7omyH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/694664142553272320/oaa7omyH_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4872550547/1463307082",
+        "profile_link_color": "2B7BB9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "withheld_in_countries": [
+        "TR"
+      ],
+      "retweeted_status": {
+        "created_at": "Thu Aug 25 10:04:43 +0000 2016",
+        "id": 768750946960674816,
+        "id_str": "768750946960674816",
+        "text": "American YPG fighter: US backing Turkey-led Jarabulus operation is a slap in the face for Kurds  https://t.co/2LFtGPpBh2 via @twitterapi",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "twitterapi",
+              "name": "Twitter API",
+              "id": 6253282,
+              "id_str": "6253282",
+              "indices": [
+                125,
+                136
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/2LFtGPpBh2",
+              "expanded_url": "http://aranews.net/2016/08/american-ypg-fighter-us-backing-turkey-led-jarabulus-operation-slap-face-kurds/",
+              "display_url": "aranews.net/2016/08/americ…",
+              "indices": [
+                97,
+                120
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 49946953,
+          "id_str": "49946953",
+          "name": "Kurdish Question",
+          "screen_name": "Hevallo",
+          "location": "International",
+          "description": "Pro Kurdish Rights Campaigner. https://t.co/KuDpOd7UHh Hevallo@gmail.com",
+          "url": "https://t.co/NQApTEzkQW",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/NQApTEzkQW",
+                  "expanded_url": "http://www.stopwaronkurds.org/join/",
+                  "display_url": "stopwaronkurds.org/join/",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "https://t.co/KuDpOd7UHh",
+                  "expanded_url": "http://www.KurdishQuestion.com",
+                  "display_url": "KurdishQuestion.com",
+                  "indices": [
+                    31,
+                    54
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 41914,
+          "friends_count": 6803,
+          "listed_count": 605,
+          "created_at": "Tue Jun 23 11:06:45 +0000 2009",
+          "favourites_count": 2517,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 214133,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/360489183/Ishak_Pasha.jpg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/360489183/Ishak_Pasha.jpg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/766454516912885760/xwV2apck_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/766454516912885760/xwV2apck_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/49946953/1471131360",
+          "profile_link_color": "89C9FA",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null,
+          "withheld_in_countries": [
+            "TR"
+          ]
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "withheld_in_countries": [
+          "TR"
+        ],
+        "is_quote_status": false,
+        "retweet_count": 18,
+        "favorite_count": 15,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 18,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Aug 25 11:18:49 +0000 2016",
+      "id": 768769598212673536,
+      "id_str": "768769598212673536",
+      "text": "RT @Hevallo: American YPG fighter: US backing Turkey-led Jarabulus operation is a slap in the face for Kurds  https://t.co/2LFtGPpBh2 via @…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Hevallo",
+            "name": "Kurdish Question",
+            "id": 49946953,
+            "id_str": "49946953",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "twitterapi",
+            "name": "Twitter API",
+            "id": 6253282,
+            "id_str": "6253282",
+            "indices": [
+              139,
+              140
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/2LFtGPpBh2",
+            "expanded_url": "http://aranews.net/2016/08/american-ypg-fighter-us-backing-turkey-led-jarabulus-operation-slap-face-kurds/",
+            "display_url": "aranews.net/2016/08/americ…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 755184175,
+        "id_str": "755184175",
+        "name": "Saniye Koca",
+        "screen_name": "KSanye",
+        "location": "",
+        "description": ".…",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1766,
+        "friends_count": 1994,
+        "listed_count": 58,
+        "created_at": "Mon Aug 13 13:49:26 +0000 2012",
+        "favourites_count": 104,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 300181,
+        "lang": "tr",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/3741927485/79bce2007f4f8bbfe7edbde1a3af2555_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/3741927485/79bce2007f4f8bbfe7edbde1a3af2555_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "withheld_in_countries": [
+        "TR"
+      ],
+      "retweeted_status": {
+        "created_at": "Thu Aug 25 10:04:43 +0000 2016",
+        "id": 768750946960674816,
+        "id_str": "768750946960674816",
+        "text": "American YPG fighter: US backing Turkey-led Jarabulus operation is a slap in the face for Kurds  https://t.co/2LFtGPpBh2 via @twitterapi",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "twitterapi",
+              "name": "Twitter API",
+              "id": 6253282,
+              "id_str": "6253282",
+              "indices": [
+                125,
+                136
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/2LFtGPpBh2",
+              "expanded_url": "http://aranews.net/2016/08/american-ypg-fighter-us-backing-turkey-led-jarabulus-operation-slap-face-kurds/",
+              "display_url": "aranews.net/2016/08/americ…",
+              "indices": [
+                97,
+                120
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 49946953,
+          "id_str": "49946953",
+          "name": "Kurdish Question",
+          "screen_name": "Hevallo",
+          "location": "International",
+          "description": "Pro Kurdish Rights Campaigner. https://t.co/KuDpOd7UHh Hevallo@gmail.com",
+          "url": "https://t.co/NQApTEzkQW",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/NQApTEzkQW",
+                  "expanded_url": "http://www.stopwaronkurds.org/join/",
+                  "display_url": "stopwaronkurds.org/join/",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "https://t.co/KuDpOd7UHh",
+                  "expanded_url": "http://www.KurdishQuestion.com",
+                  "display_url": "KurdishQuestion.com",
+                  "indices": [
+                    31,
+                    54
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 41914,
+          "friends_count": 6803,
+          "listed_count": 605,
+          "created_at": "Tue Jun 23 11:06:45 +0000 2009",
+          "favourites_count": 2517,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 214133,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/360489183/Ishak_Pasha.jpg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/360489183/Ishak_Pasha.jpg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/766454516912885760/xwV2apck_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/766454516912885760/xwV2apck_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/49946953/1471131360",
+          "profile_link_color": "89C9FA",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null,
+          "withheld_in_countries": [
+            "TR"
+          ]
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "withheld_in_countries": [
+          "TR"
+        ],
+        "is_quote_status": false,
+        "retweet_count": 18,
+        "favorite_count": 15,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 18,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Aug 25 11:15:07 +0000 2016",
+      "id": 768768666922016768,
+      "id_str": "768768666922016768",
+      "text": "Знамение! В РФ рухнула сцена на словах «Украина и Россия - друг без друга нам нельзя». ВИДЕО https://t.co/dR4B6ZcB29 с помощью @twitterapi",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "twitterapi",
+            "name": "Twitter API",
+            "id": 6253282,
+            "id_str": "6253282",
+            "indices": [
+              127,
+              138
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/dR4B6ZcB29",
+            "expanded_url": "http://www.from-ua.com/news/385172-znamenie-v-rf-ruhnula-scena-na-slovah-ukraina-i-rossiya-drug-bez-druga-nam-nelzya-video.html",
+            "display_url": "from-ua.com/news/385172-zn…",
+            "indices": [
+              93,
+              116
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "result_type": "recent",
+        "iso_language_code": "ru"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 259330658,
+        "id_str": "259330658",
+        "name": "Тамада Киев",
+        "screen_name": "tamadakiev",
+        "location": "Ukraine, Kiev",
+        "description": "Позвольте представиться, я – профессиональный ведущий праздников, свадебный тамада, эксперт по любым торжествам.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 846,
+        "friends_count": 807,
+        "listed_count": 7,
+        "created_at": "Tue Mar 01 17:00:51 +0000 2011",
+        "favourites_count": 0,
+        "utc_offset": 10800,
+        "time_zone": "Kyiv",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7704,
+        "lang": "ru",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFCC4D",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/723548314285793280/H4cRyNgg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/723548314285793280/H4cRyNgg_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/259330658/1461342388",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Aug 25 11:12:07 +0000 2016",
+      "id": 768767910114234369,
+      "id_str": "768767910114234369",
+      "text": "F1 News - F1 Belgian GP: Mercedes, Force India set to trial ‘Halo’ at Spa https://t.co/tnVUFeMbZf via @twitterapi",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "twitterapi",
+            "name": "Twitter API",
+            "id": 6253282,
+            "id_str": "6253282",
+            "indices": [
+              102,
+              113
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/tnVUFeMbZf",
+            "expanded_url": "http://www.crash.net/f1/news/233028/1/mercedes-force-india-set-to-trial-halo-at-spa.html?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+            "display_url": "crash.net/f1/news/233028…",
+            "indices": [
+              74,
+              97
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "in",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3049479011,
+        "id_str": "3049479011",
+        "name": "Willem v Laarhoven",
+        "screen_name": "4671willem",
+        "location": "Dinteloord",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 79,
+        "friends_count": 178,
+        "listed_count": 7,
+        "created_at": "Sat Feb 21 11:40:59 +0000 2015",
+        "favourites_count": 920,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4113,
+        "lang": "nl",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/570966386868903936/NK5mzFeP_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/570966386868903936/NK5mzFeP_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3049479011/1463602904",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "in"
+    },
+    {
+      "created_at": "Thu Aug 25 11:10:50 +0000 2016",
+      "id": 768767585756274689,
+      "id_str": "768767585756274689",
+      "text": "RT @Hevallo: American YPG fighter: US backing Turkey-led Jarabulus operation is a slap in the face for Kurds  https://t.co/2LFtGPpBh2 via @…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Hevallo",
+            "name": "Kurdish Question",
+            "id": 49946953,
+            "id_str": "49946953",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "twitterapi",
+            "name": "Twitter API",
+            "id": 6253282,
+            "id_str": "6253282",
+            "indices": [
+              139,
+              140
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/2LFtGPpBh2",
+            "expanded_url": "http://aranews.net/2016/08/american-ypg-fighter-us-backing-turkey-led-jarabulus-operation-slap-face-kurds/",
+            "display_url": "aranews.net/2016/08/americ…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 375789321,
+        "id_str": "375789321",
+        "name": "Feisal Bani",
+        "screen_name": "Banirad1",
+        "location": "London",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 242,
+        "friends_count": 756,
+        "listed_count": 0,
+        "created_at": "Sun Sep 18 18:51:37 +0000 2011",
+        "favourites_count": 2637,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2202,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/708532341866627073/40k5wqWw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/708532341866627073/40k5wqWw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/375789321/1458238232",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "withheld_in_countries": [
+        "TR"
+      ],
+      "retweeted_status": {
+        "created_at": "Thu Aug 25 10:04:43 +0000 2016",
+        "id": 768750946960674816,
+        "id_str": "768750946960674816",
+        "text": "American YPG fighter: US backing Turkey-led Jarabulus operation is a slap in the face for Kurds  https://t.co/2LFtGPpBh2 via @twitterapi",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "twitterapi",
+              "name": "Twitter API",
+              "id": 6253282,
+              "id_str": "6253282",
+              "indices": [
+                125,
+                136
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/2LFtGPpBh2",
+              "expanded_url": "http://aranews.net/2016/08/american-ypg-fighter-us-backing-turkey-led-jarabulus-operation-slap-face-kurds/",
+              "display_url": "aranews.net/2016/08/americ…",
+              "indices": [
+                97,
+                120
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 49946953,
+          "id_str": "49946953",
+          "name": "Kurdish Question",
+          "screen_name": "Hevallo",
+          "location": "International",
+          "description": "Pro Kurdish Rights Campaigner. https://t.co/KuDpOd7UHh Hevallo@gmail.com",
+          "url": "https://t.co/NQApTEzkQW",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/NQApTEzkQW",
+                  "expanded_url": "http://www.stopwaronkurds.org/join/",
+                  "display_url": "stopwaronkurds.org/join/",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "https://t.co/KuDpOd7UHh",
+                  "expanded_url": "http://www.KurdishQuestion.com",
+                  "display_url": "KurdishQuestion.com",
+                  "indices": [
+                    31,
+                    54
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 41914,
+          "friends_count": 6803,
+          "listed_count": 605,
+          "created_at": "Tue Jun 23 11:06:45 +0000 2009",
+          "favourites_count": 2517,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 214133,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/360489183/Ishak_Pasha.jpg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/360489183/Ishak_Pasha.jpg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/766454516912885760/xwV2apck_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/766454516912885760/xwV2apck_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/49946953/1471131360",
+          "profile_link_color": "89C9FA",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null,
+          "withheld_in_countries": [
+            "TR"
+          ]
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "withheld_in_countries": [
+          "TR"
+        ],
+        "is_quote_status": false,
+        "retweet_count": 18,
+        "favorite_count": 15,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 18,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Aug 25 11:05:18 +0000 2016",
+      "id": 768766194774110208,
+      "id_str": "768766194774110208",
+      "text": "Pooja Apartment Mira road Complaints https://t.co/KafOwh0Em6 via @twitterapi",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "twitterapi",
+            "name": "Twitter API",
+            "id": 6253282,
+            "id_str": "6253282",
+            "indices": [
+              65,
+              76
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/KafOwh0Em6",
+            "expanded_url": "http://www.complaintboard.in/complaints-reviews/pooja-apartment-mira-road-l532509.html#addareview",
+            "display_url": "complaintboard.in/complaints-rev…",
+            "indices": [
+              37,
+              60
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "et",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 768759883080622080,
+        "id_str": "768759883080622080",
+        "name": "rituja bhosle",
+        "screen_name": "RitujaBhosle",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 0,
+        "friends_count": 21,
+        "listed_count": 0,
+        "created_at": "Thu Aug 25 10:40:13 +0000 2016",
+        "favourites_count": 0,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png",
+        "profile_link_color": "2B7BB9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": true,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "et"
+    },
+    {
+      "created_at": "Thu Aug 25 11:04:23 +0000 2016",
+      "id": 768765962921312256,
+      "id_str": "768765962921312256",
+      "text": "RT @clickclickderrp: American YPG fighter: US backing Turkey-led Jarabulus operation is a slap in the face for Kurds https://t.co/5aOCjpaIW…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "clickclickderrp",
+            "name": "Karl Hungus ✌",
+            "id": 946381548,
+            "id_str": "946381548",
+            "indices": [
+              3,
+              19
+            ]
+          },
+          {
+            "screen_name": "twitterapi",
+            "name": "Twitter API",
+            "id": 6253282,
+            "id_str": "6253282",
+            "indices": [
+              139,
+              140
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/5aOCjpaIWZ",
+            "expanded_url": "http://aranews.net/2016/08/american-ypg-fighter-us-backing-turkey-led-jarabulus-operation-slap-face-kurds/",
+            "display_url": "aranews.net/2016/08/americ…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 968851322,
+        "id_str": "968851322",
+        "name": "Esfahan Hanimن",
+        "screen_name": "esfahanhanim",
+        "location": "Turkiye, Greece, Egypt, USA",
+        "description": "Born free, Living Free, Fighting4 Freedom+Equality4All.Retweets do not mean agreement.Egypt, Greece and Turkiye are my Passions! #TwitterKurds\nFree Kurdistan!",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 2300,
+        "friends_count": 1448,
+        "listed_count": 140,
+        "created_at": "Sat Nov 24 21:40:52 +0000 2012",
+        "favourites_count": 90428,
+        "utc_offset": 10800,
+        "time_zone": "Athens",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 229534,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "ACDED6",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000180820596/99J2S1EU.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000180820596/99J2S1EU.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/680226632838307840/jZJjA-Vh_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/680226632838307840/jZJjA-Vh_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/968851322/1388586974",
+        "profile_link_color": "038543",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F6F6F6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Aug 24 23:09:09 +0000 2016",
+        "id": 768585967850643456,
+        "id_str": "768585967850643456",
+        "text": "American YPG fighter: US backing Turkey-led Jarabulus operation is a slap in the face for Kurds https://t.co/5aOCjpaIWZ via @twitterapi",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "twitterapi",
+              "name": "Twitter API",
+              "id": 6253282,
+              "id_str": "6253282",
+              "indices": [
+                124,
+                135
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/5aOCjpaIWZ",
+              "expanded_url": "http://aranews.net/2016/08/american-ypg-fighter-us-backing-turkey-led-jarabulus-operation-slap-face-kurds/",
+              "display_url": "aranews.net/2016/08/americ…",
+              "indices": [
+                96,
+                119
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 946381548,
+          "id_str": "946381548",
+          "name": "Karl Hungus ✌",
+          "screen_name": "clickclickderrp",
+          "location": "",
+          "description": "",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 282,
+          "friends_count": 414,
+          "listed_count": 7,
+          "created_at": "Tue Nov 13 19:40:44 +0000 2012",
+          "favourites_count": 7310,
+          "utc_offset": -14400,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 16198,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "1A1B1F",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/641345958626746369/yscLTMKl_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/641345958626746369/yscLTMKl_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/946381548/1457398824",
+          "profile_link_color": "2FC2EF",
+          "profile_sidebar_border_color": "181A1E",
+          "profile_sidebar_fill_color": "252429",
+          "profile_text_color": "666666",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 18,
+        "favorite_count": 12,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 18,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Aug 25 11:02:53 +0000 2016",
+      "id": 768765588697210880,
+      "id_str": "768765588697210880",
+      "text": "RT @Hevallo: American YPG fighter: US backing Turkey-led Jarabulus operation is a slap in the face for Kurds  https://t.co/2LFtGPpBh2 via @…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Hevallo",
+            "name": "Kurdish Question",
+            "id": 49946953,
+            "id_str": "49946953",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "twitterapi",
+            "name": "Twitter API",
+            "id": 6253282,
+            "id_str": "6253282",
+            "indices": [
+              139,
+              140
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/2LFtGPpBh2",
+            "expanded_url": "http://aranews.net/2016/08/american-ypg-fighter-us-backing-turkey-led-jarabulus-operation-slap-face-kurds/",
+            "display_url": "aranews.net/2016/08/americ…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2918864866,
+        "id_str": "2918864866",
+        "name": "Bruce Wayne",
+        "screen_name": "Raymosaki",
+        "location": "3rd rock from the Sun",
+        "description": "Historian German/American #StandwithIsrael #Stand with Kurds ❤️#YPJ❤️",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 5373,
+        "friends_count": 4961,
+        "listed_count": 121,
+        "created_at": "Sat Dec 13 01:30:25 +0000 2014",
+        "favourites_count": 70701,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 69128,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/767702128001507328/YQBHzm2R_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/767702128001507328/YQBHzm2R_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2918864866/1469055997",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "withheld_in_countries": [
+        "TR"
+      ],
+      "retweeted_status": {
+        "created_at": "Thu Aug 25 10:04:43 +0000 2016",
+        "id": 768750946960674816,
+        "id_str": "768750946960674816",
+        "text": "American YPG fighter: US backing Turkey-led Jarabulus operation is a slap in the face for Kurds  https://t.co/2LFtGPpBh2 via @twitterapi",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "twitterapi",
+              "name": "Twitter API",
+              "id": 6253282,
+              "id_str": "6253282",
+              "indices": [
+                125,
+                136
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/2LFtGPpBh2",
+              "expanded_url": "http://aranews.net/2016/08/american-ypg-fighter-us-backing-turkey-led-jarabulus-operation-slap-face-kurds/",
+              "display_url": "aranews.net/2016/08/americ…",
+              "indices": [
+                97,
+                120
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 49946953,
+          "id_str": "49946953",
+          "name": "Kurdish Question",
+          "screen_name": "Hevallo",
+          "location": "International",
+          "description": "Pro Kurdish Rights Campaigner. https://t.co/KuDpOd7UHh Hevallo@gmail.com",
+          "url": "https://t.co/NQApTEzkQW",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/NQApTEzkQW",
+                  "expanded_url": "http://www.stopwaronkurds.org/join/",
+                  "display_url": "stopwaronkurds.org/join/",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "https://t.co/KuDpOd7UHh",
+                  "expanded_url": "http://www.KurdishQuestion.com",
+                  "display_url": "KurdishQuestion.com",
+                  "indices": [
+                    31,
+                    54
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 41914,
+          "friends_count": 6803,
+          "listed_count": 605,
+          "created_at": "Tue Jun 23 11:06:45 +0000 2009",
+          "favourites_count": 2517,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 214133,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/360489183/Ishak_Pasha.jpg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/360489183/Ishak_Pasha.jpg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/766454516912885760/xwV2apck_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/766454516912885760/xwV2apck_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/49946953/1471131360",
+          "profile_link_color": "89C9FA",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null,
+          "withheld_in_countries": [
+            "TR"
+          ]
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "withheld_in_countries": [
+          "TR"
+        ],
+        "is_quote_status": false,
+        "retweet_count": 18,
+        "favorite_count": 15,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 18,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Aug 25 10:58:47 +0000 2016",
+      "id": 768764554725560320,
+      "id_str": "768764554725560320",
+      "text": "Cu sânii BETON la vedere! Te uiţi la ea şi ai instant vise erotice! https://t.co/xty3jRy5FE via @twitterapi",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "twitterapi",
+            "name": "Twitter API",
+            "id": 6253282,
+            "id_str": "6253282",
+            "indices": [
+              96,
+              107
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/xty3jRy5FE",
+            "expanded_url": "http://www.apropotv.ro/showbiz/cu-sanii-beton-la-vedere-te-uiti-la-ea-si-ai-instant-vise-erotice-15609899-articol",
+            "display_url": "apropotv.ro/showbiz/cu-san…",
+            "indices": [
+              68,
+              91
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1157188507,
+        "id_str": "1157188507",
+        "name": "david",
+        "screen_name": "davidbluesman8",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 211,
+        "friends_count": 801,
+        "listed_count": 0,
+        "created_at": "Thu Feb 07 13:45:51 +0000 2013",
+        "favourites_count": 18,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1927,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/693515806412447744/rXjqr9ww_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/693515806412447744/rXjqr9ww_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1157188507/1423582400",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Thu Aug 25 10:57:43 +0000 2016",
+      "id": 768764285115740161,
+      "id_str": "768764285115740161",
+      "text": "Ilegal de sexy! Cum arată o prezentatoare de ştiri de la noi fără haine https://t.co/xCkrkXGFJj via @twitterapi",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "twitterapi",
+            "name": "Twitter API",
+            "id": 6253282,
+            "id_str": "6253282",
+            "indices": [
+              100,
+              111
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/xCkrkXGFJj",
+            "expanded_url": "http://www.apropotv.ro/showbiz/-ilegal-de-sexy-cum-arata-o-prezentatoare-de-stiri-de-la-noi-fara-haine--14669948-articol",
+            "display_url": "apropotv.ro/showbiz/-ilega…",
+            "indices": [
+              72,
+              95
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "und",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1157188507,
+        "id_str": "1157188507",
+        "name": "david",
+        "screen_name": "davidbluesman8",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 211,
+        "friends_count": 801,
+        "listed_count": 0,
+        "created_at": "Thu Feb 07 13:45:51 +0000 2013",
+        "favourites_count": 18,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1927,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/693515806412447744/rXjqr9ww_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/693515806412447744/rXjqr9ww_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1157188507/1423582400",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Thu Aug 25 10:53:48 +0000 2016",
+      "id": 768763299076923392,
+      "id_str": "768763299076923392",
+      "text": "RT @Hevallo: American YPG fighter: US backing Turkey-led Jarabulus operation is a slap in the face for Kurds  https://t.co/2LFtGPpBh2 via @…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Hevallo",
+            "name": "Kurdish Question",
+            "id": 49946953,
+            "id_str": "49946953",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "twitterapi",
+            "name": "Twitter API",
+            "id": 6253282,
+            "id_str": "6253282",
+            "indices": [
+              139,
+              140
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/2LFtGPpBh2",
+            "expanded_url": "http://aranews.net/2016/08/american-ypg-fighter-us-backing-turkey-led-jarabulus-operation-slap-face-kurds/",
+            "display_url": "aranews.net/2016/08/americ…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 729011832900468736,
+        "id_str": "729011832900468736",
+        "name": "Rojava News - London",
+        "screen_name": "London4Rojava",
+        "location": "London, England",
+        "description": "London Support for Rojava, Syria. The #Green Democratic Confederalist project. One of a kind. Ignored by the West. #Rojava #Palestine #Kurdistan #YPG #PKK",
+        "url": "https://t.co/hngHpum9di",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/hngHpum9di",
+                "expanded_url": "https://coopfunding.net/en/campaigns/feed-the-revolution/",
+                "display_url": "coopfunding.net/en/campaigns/f…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 287,
+        "friends_count": 329,
+        "listed_count": 2,
+        "created_at": "Sat May 07 18:15:40 +0000 2016",
+        "favourites_count": 133,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 829,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/732872958692229121/iiEJ-o0p_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/732872958692229121/iiEJ-o0p_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/729011832900468736/1463935470",
+        "profile_link_color": "2B7BB9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "withheld_in_countries": [
+        "TR"
+      ],
+      "retweeted_status": {
+        "created_at": "Thu Aug 25 10:04:43 +0000 2016",
+        "id": 768750946960674816,
+        "id_str": "768750946960674816",
+        "text": "American YPG fighter: US backing Turkey-led Jarabulus operation is a slap in the face for Kurds  https://t.co/2LFtGPpBh2 via @twitterapi",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "twitterapi",
+              "name": "Twitter API",
+              "id": 6253282,
+              "id_str": "6253282",
+              "indices": [
+                125,
+                136
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/2LFtGPpBh2",
+              "expanded_url": "http://aranews.net/2016/08/american-ypg-fighter-us-backing-turkey-led-jarabulus-operation-slap-face-kurds/",
+              "display_url": "aranews.net/2016/08/americ…",
+              "indices": [
+                97,
+                120
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 49946953,
+          "id_str": "49946953",
+          "name": "Kurdish Question",
+          "screen_name": "Hevallo",
+          "location": "International",
+          "description": "Pro Kurdish Rights Campaigner. https://t.co/KuDpOd7UHh Hevallo@gmail.com",
+          "url": "https://t.co/NQApTEzkQW",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/NQApTEzkQW",
+                  "expanded_url": "http://www.stopwaronkurds.org/join/",
+                  "display_url": "stopwaronkurds.org/join/",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "https://t.co/KuDpOd7UHh",
+                  "expanded_url": "http://www.KurdishQuestion.com",
+                  "display_url": "KurdishQuestion.com",
+                  "indices": [
+                    31,
+                    54
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 41914,
+          "friends_count": 6803,
+          "listed_count": 605,
+          "created_at": "Tue Jun 23 11:06:45 +0000 2009",
+          "favourites_count": 2517,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 214133,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/360489183/Ishak_Pasha.jpg",
+          "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/360489183/Ishak_Pasha.jpg",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/766454516912885760/xwV2apck_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/766454516912885760/xwV2apck_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/49946953/1471131360",
+          "profile_link_color": "89C9FA",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": null,
+          "follow_request_sent": null,
+          "notifications": null,
+          "withheld_in_countries": [
+            "TR"
+          ]
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "withheld_in_countries": [
+          "TR"
+        ],
+        "is_quote_status": false,
+        "retweet_count": 18,
+        "favorite_count": 15,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 18,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Aug 25 10:53:21 +0000 2016",
+      "id": 768763187143540738,
+      "id_str": "768763187143540738",
+      "text": "ВМРО-ДПМНЕ: Ад-хок телото не смее да подлегне на притисоци од аболицираниот криминалец Заев https://t.co/wDJSfFkNr2 ние сме добри@twitterapi",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "twitterapi",
+            "name": "Twitter API",
+            "id": 6253282,
+            "id_str": "6253282",
+            "indices": [
+              129,
+              140
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/wDJSfFkNr2",
+            "expanded_url": "http://telma.com.mk/vesti/vmro-dpmne-ad-hok-teloto-ne-smee-da-podlegne-na-vakvite-pritisoci-od-aboliciraniot-kriminalec",
+            "display_url": "telma.com.mk/vesti/vmro-dpm…",
+            "indices": [
+              92,
+              115
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "bg",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4813019805,
+        "id_str": "4813019805",
+        "name": "Силјан Штркот",
+        "screen_name": "siljanstrkot",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1648,
+        "friends_count": 1270,
+        "listed_count": 2,
+        "created_at": "Fri Jan 15 10:09:55 +0000 2016",
+        "favourites_count": 11678,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 13231,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/687952181618700288/k365neb4_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/687952181618700288/k365neb4_normal.png",
+        "profile_link_color": "2B7BB9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "bg"
+    },
+    {
+      "created_at": "Thu Aug 25 10:43:31 +0000 2016",
+      "id": 768760711635808256,
+      "id_str": "768760711635808256",
+      "text": "US #YPG fighter: US backing #Turkey led #Jarabulus operation is a slap in the face for #Syria #Kurds https://t.co/xNDd2T5JpR via @twitterapi",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "YPG",
+            "indices": [
+              3,
+              7
+            ]
+          },
+          {
+            "text": "Turkey",
+            "indices": [
+              28,
+              35
+            ]
+          },
+          {
+            "text": "Jarabulus",
+            "indices": [
+              40,
+              50
+            ]
+          },
+          {
+            "text": "Syria",
+            "indices": [
+              87,
+              93
+            ]
+          },
+          {
+            "text": "Kurds",
+            "indices": [
+              94,
+              100
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "twitterapi",
+            "name": "Twitter API",
+            "id": 6253282,
+            "id_str": "6253282",
+            "indices": [
+              129,
+              140
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/xNDd2T5JpR",
+            "expanded_url": "http://aranews.net/2016/08/american-ypg-fighter-us-backing-turkey-led-jarabulus-operation-slap-face-kurds/",
+            "display_url": "aranews.net/2016/08/americ…",
+            "indices": [
+              101,
+              124
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 550244741,
+        "id_str": "550244741",
+        "name": "Linda Hemby",
+        "screen_name": "LindaHemby",
+        "location": "El Salvador/Charlottesville",
+        "description": "Political Sociologist & lifelong Human Rights Activist. MENA, Turkey & Afghanistan; El Salvador; Art as Protest; #BlackLivesMatter; Saramago ...",
+        "url": "https://t.co/1ilj9SUT6V",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/1ilj9SUT6V",
+                "expanded_url": "https://www.facebook.com/groups/204508666303145/",
+                "display_url": "facebook.com/groups/2045086…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1210,
+        "friends_count": 90,
+        "listed_count": 270,
+        "created_at": "Tue Apr 10 16:28:00 +0000 2012",
+        "favourites_count": 84,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 69462,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/455134235590811649/1FsKCbl8_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/455134235590811649/1FsKCbl8_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/550244741/1397749815",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Aug 25 10:42:36 +0000 2016",
+      "id": 768760483969060864,
+      "id_str": "768760483969060864",
+      "text": "#Turkey fighting #Kurds under pretext of combatting ISIS in #Syria: #Rojava #Kurdish politician https://t.co/OeanbvnzIe via @twitterapi",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Turkey",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "text": "Kurds",
+            "indices": [
+              17,
+              23
+            ]
+          },
+          {
+            "text": "Syria",
+            "indices": [
+              60,
+              66
+            ]
+          },
+          {
+            "text": "Rojava",
+            "indices": [
+              68,
+              75
+            ]
+          },
+          {
+            "text": "Kurdish",
+            "indices": [
+              76,
+              84
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "twitterapi",
+            "name": "Twitter API",
+            "id": 6253282,
+            "id_str": "6253282",
+            "indices": [
+              124,
+              135
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/OeanbvnzIe",
+            "expanded_url": "http://aranews.net/2016/08/turkey-fighting-kurds-pretext-combatting-isis-syria-politician/",
+            "display_url": "aranews.net/2016/08/turkey…",
+            "indices": [
+              96,
+              119
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 550244741,
+        "id_str": "550244741",
+        "name": "Linda Hemby",
+        "screen_name": "LindaHemby",
+        "location": "El Salvador/Charlottesville",
+        "description": "Political Sociologist & lifelong Human Rights Activist. MENA, Turkey & Afghanistan; El Salvador; Art as Protest; #BlackLivesMatter; Saramago ...",
+        "url": "https://t.co/1ilj9SUT6V",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/1ilj9SUT6V",
+                "expanded_url": "https://www.facebook.com/groups/204508666303145/",
+                "display_url": "facebook.com/groups/2045086…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1210,
+        "friends_count": 90,
+        "listed_count": 270,
+        "created_at": "Tue Apr 10 16:28:00 +0000 2012",
+        "favourites_count": 84,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 69462,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/455134235590811649/1FsKCbl8_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/455134235590811649/1FsKCbl8_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/550244741/1397749815",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Thu Aug 25 10:41:47 +0000 2016",
+      "id": 768760277609295872,
+      "id_str": "768760277609295872",
+      "text": "Displaced civilians return to #Hasakah after truce was reached between #Kurds, #Syria regime  https://t.co/kEl8shrbw6 via @twitterapi",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Hasakah",
+            "indices": [
+              30,
+              38
+            ]
+          },
+          {
+            "text": "Kurds",
+            "indices": [
+              71,
+              77
+            ]
+          },
+          {
+            "text": "Syria",
+            "indices": [
+              79,
+              85
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "twitterapi",
+            "name": "Twitter API",
+            "id": 6253282,
+            "id_str": "6253282",
+            "indices": [
+              122,
+              133
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/kEl8shrbw6",
+            "expanded_url": "http://aranews.net/2016/08/displaced-civilians-return-hasakah-truce-reached-kurds-syrian-regime/",
+            "display_url": "aranews.net/2016/08/displa…",
+            "indices": [
+              94,
+              117
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 550244741,
+        "id_str": "550244741",
+        "name": "Linda Hemby",
+        "screen_name": "LindaHemby",
+        "location": "El Salvador/Charlottesville",
+        "description": "Political Sociologist & lifelong Human Rights Activist. MENA, Turkey & Afghanistan; El Salvador; Art as Protest; #BlackLivesMatter; Saramago ...",
+        "url": "https://t.co/1ilj9SUT6V",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/1ilj9SUT6V",
+                "expanded_url": "https://www.facebook.com/groups/204508666303145/",
+                "display_url": "facebook.com/groups/2045086…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1210,
+        "friends_count": 90,
+        "listed_count": 270,
+        "created_at": "Tue Apr 10 16:28:00 +0000 2012",
+        "favourites_count": 84,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 69462,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/455134235590811649/1FsKCbl8_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/455134235590811649/1FsKCbl8_normal.jpeg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/550244741/1397749815",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "C6E2EE",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.04,
+    "max_id": 768774374560325632,
+    "max_id_str": "768774374560325632",
+    "next_results": "?max_id=768760277609295871&q=%40twitterapi&include_entities=1",
+    "query": "%40twitterapi",
+    "refresh_url": "?since_id=768774374560325632&q=%40twitterapi&include_entities=1",
+    "count": 15,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

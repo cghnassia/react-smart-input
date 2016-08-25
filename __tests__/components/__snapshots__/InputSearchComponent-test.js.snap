@@ -1,0 +1,12 @@
+exports[`Link renders correctly 1`] = `
+<div>
+  <input
+    onChange={[Function bound onInputChange]}
+    placeholder="search"
+    type="text" />
+  <button
+    onClick={[Function bound onButtonClick]}>
+    Search!
+  </button>
+</div>
+`;
